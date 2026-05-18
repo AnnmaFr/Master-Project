@@ -76,7 +76,7 @@ Each scenario was specifically designed for immersive AR interaction and demonst
 
 ---
 
-## My Contributions
+## Responsibilities
 
 - Conceptualization and design of the educational application
 - Development and implementation of all interactive AR scenarios
